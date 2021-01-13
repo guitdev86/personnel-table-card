@@ -1,5 +1,3 @@
-# teltonika-front-task
-
 ## Project setup
 ```
 npm install
